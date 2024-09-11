@@ -1,2 +1,3 @@
-## Brebeuf
-*Angelica T. Barbado*
+### Brebeuf
+***Angelica T. Barbado***
+---
