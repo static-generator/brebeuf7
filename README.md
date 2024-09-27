@@ -19,6 +19,8 @@
 - Pale Horse manhwa
 - Secret Lady
 - JJBA SBR
+- AISHA
+- Look Back
 ---
 
   **Fav music artists/album**
