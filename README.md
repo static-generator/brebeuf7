@@ -29,3 +29,4 @@
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2Zi7uv234eNZJfLPGUIkSD?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5IEoiwkThhRmSMBANhpxl2?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+THANK YOU! :joy:
